@@ -41,4 +41,4 @@ Product & Data Analytics professional with experience in B2B digital products, b
 
 LinkedIn: [linkedin.com/in/raissairena](https://www.linkedin.com/in/raissairena) | Email: [raissairenaperdana@gmail.com](mailto:raissairenaperdana@gmail.com)
 
-[**VIEW MY CV**](https://drive.google.com/file/d/12_9rTsLqTdB2yzLScNFt_p6vCYiMj-qj/view?usp=sharing)
+[**VIEW MY CV**](https://drive.google.com/file/d/1JDOmzg3huSdQaO_ZZAkHMURUkDUvPdmv/view?usp=sharing)
