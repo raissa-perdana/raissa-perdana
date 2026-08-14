@@ -19,7 +19,7 @@ Product & Data Analytics professional with experience in B2B digital products, b
 | [SQL Business Analysis](https://github.com/raissa-perdana/sql-business-analysis) | Business performance analysis | SQL |
 | [Tableau Business Dashboards](https://github.com/raissa-perdana/tableau-business-dashboards) | Business intelligence & visualization | Tableau |
 | [FMCG Sales & Marketing Analytics](https://github.com/raissa-perdana/fmcg-sales-marketing-analysis) | Sales & marketing analytics | Python, Tableau |
-| [E-commerce Data Warehouse](https://github.com/raissa-perdana/ecommerce-data-warehouse-thelook) | Data warehouse & BI | PySpark, PostgreSQL, SQL |
+| [E-commerce Data Warehouse](https://github.com/raissa-perdana/ecommerce-data-warehouse-thelook) | Data warehouse | PySpark, PostgreSQL, SQL |
 | [Zomato ETL Automation](https://github.com/raissa-perdana/zomato-delivery-etl-pipeline) | ETL pipeline automation | PySpark, Airflow, MongoDB |
 
 ## Skills
